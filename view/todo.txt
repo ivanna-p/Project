@@ -1,0 +1,17 @@
+FIX:
+    Resize images
+    Bug - total price/cart
+    
+TODO:
+    Write ReadMe file
+    Extend category table with pictures and description
+    Add option to check sizes
+    Show gender and make the search avaliable
+    Login for the user
+    Login for the owner
+    Page for the shop owner to add and update products amounts, images, prices etc...
+    Page for the shop owner to manipulate with orders (CRUD)
+    Alert if you wanna confirm order without all valid fields
+    Nice to have: Latest products
+    Header on products/brand page - CHECK TODOS ON products_page
+    Code refactoring and cleaning
